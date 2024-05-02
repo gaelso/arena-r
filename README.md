@@ -25,4 +25,4 @@
   
   Required R packages (with dependencies): dplyr, rlang, stringr, tidyr, srvyr, survey
   
-  Created by:   Lauri Vesa (FAO), Javier Garcia Perez (FAO), Stefano Ricci (FAO), Anibal Cuchietti (FAO)
+  Created by:   Lauri Vesa (FAO), Javier Garcia Perez (FAO), Stefano Ricci (FAO), Ramiro Blazquez Gonzalez (FAO), Anibal Cuchietti (FAO)
